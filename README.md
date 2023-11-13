@@ -6,4 +6,5 @@ The dataset in the project was created by a youtuber https://www.youtube.com/@Al
 
 
 
-![image](https://github.com/giannisyp/PowerBI/assets/119696474/cf2311a8-8730-4c7e-8685-1458aedbab69)
+![image](https://github.com/giannisyp/data_science_jobs/assets/119696474/bda9fd7f-8569-41e6-b3ba-2eee649c30c1)
+
